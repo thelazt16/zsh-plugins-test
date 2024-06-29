@@ -1,3 +1,12 @@
+# romkatv zsh-bench
+Turned romkatv already debunked the ohmyzsh is slow teory and proved that if configured properly (use the stuff you need) it is pretty performant
+> All plugin managers and frameworks have good performance when configured properly. This includes ohmyzsh, despite a commonly held opinion that it's slow.
+
+<p align="center">
+  ====================================
+</p>
+
+
 I decided to work on my dotfiles and found that zplug the plugin manager which I used for the past years, has been slowing me down 🤣. 
 
 I tested 3 ways of managing the plugin manager `zplug`, `zinit`, `ohmyzsh`. And found that despite a lot of people saying omz is bloated. It's comparable to `zinit turbo mode using ice`, and faster without `zinit turbo mode` even without `ohmyzsh`. I also test it with heavy plugin (nvm) and `oh-my-zsh` still "comparable" to `zinit`.
