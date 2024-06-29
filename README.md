@@ -1,6 +1,7 @@
 # romkatv zsh-bench
 Turned romkatv already debunked the ohmyzsh is slow teory and proved that if configured properly (use the stuff you need) it is pretty performant
-> All plugin managers and frameworks have good performance when configured properly. This includes ohmyzsh, despite a commonly held opinion that it's slow.
+> * All plugin managers and frameworks have good performance when configured properly. This includes ohmyzsh, despite a commonly held opinion that it's slow. 
+> * Deferring zsh initialization with zinit turbo mode or zsh-defer is not worth it.
 
 <p align="center">
   ====================================
